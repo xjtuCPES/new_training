@@ -26,25 +26,4 @@ https://www.kaggle.com/learn/pandas
 
 
 
-\begin{eqnarray}
-
-\begin{array}a
-
-\max &f = x_1+2x_2+x_3 \\
-s.t.&
-
-\left\{
-             \begin{array}
-
-             xx_1 +2x_2+x_3 \geq 6&  \\
-             2x_1+x_2\leq 12\\
-             4x_1+2x_2+x_3\leq8 &  \\
-             x_i\geq0(i=1,2,3)
-             \end{array}
-\right.
-
-\end{array}
-
-
-
-\end{eqnarray}
+![](demo.png)
