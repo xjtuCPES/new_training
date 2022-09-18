@@ -10,9 +10,10 @@ https://www.kaggle.com/learn/python
 
 
 ### git协作基础
-
+https://github.com/geeeeeeeeek/git-recipes
 
 ### gurobipy基础
+
 
 ## 可选的技能学习
 
