@@ -1,0 +1,39 @@
+# 基础技能培训 week1
+
+
+
+## 必备技能学习
+
+1. 学习gurobipy案例
+
+学习gurobi案例程序
+
+https://www.gurobi.com/documentation/9.5/examples/mip1_py.html
+
+
+2. git基础
+
+git教程 https://github.com/geeeeeeeeek/git-recipes
+
+
+
+
+## 可选的技能学习
+
+1. pandas数据处理
+
+https://www.kaggle.com/learn/pandas
+
+
+
+## 提交的作业
+
+
+使用gurobi求解如下规划问题。将程序添加到自己的文件夹内。程序最好坐上注视方便师兄检查。
+
+![](demo.png)
+
+
+
+[公式编辑](https://www.latexlive.com/#JTVDYmVnaW4lN0JlcW5hcnJheSU3RCUwQSUwQSU1Q2JlZ2luJTdCYXJyYXklN0RhJTBBJTBBJTVDbWF4JTIwJmYlMjA9JTIweF8xKzJ4XzIreF8zJTIwJTVDJTVDJTBBcy50LiYlMEElMEElNUNsZWZ0JTVDJTdCJTBBJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTVDYmVnaW4lN0JhcnJheSU3RCUwQSUwQSUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMHh4XzElMjArMnhfMit4XzMlMjAlNUNnZXElMjA2JiUyMCUyMCU1QyU1QyUwQSUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMDJ4XzEreF8yJTVDbGVxJTIwMTIlNUMlNUMlMEElMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjA0eF8xKzJ4XzIreF8zJTVDbGVxOCUyMCYlMjAlMjAlNUMlNUMlMEElMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjAlMjB4X2klNUNnZXEwKGk9MSwyLDMpJTBBJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTVDZW5kJTdCYXJyYXklN0QlMEElNUNyaWdodC4lMEElMEElNUNlbmQlN0JhcnJheSU3RCUwQSUwQSUwQSUwQSU1Q2VuZCU3QmVxbmFycmF5JTdE)
+
