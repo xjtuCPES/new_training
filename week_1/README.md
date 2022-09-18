@@ -6,7 +6,7 @@
 
 1. python基础
 
-python环境请自行搭建
+python环境请自行搭建，并按照如下链接学习一些python的基础教程，预计用时5h，该教程没有废话，简洁明了。
 
 https://www.kaggle.com/learn/python
 

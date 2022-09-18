@@ -1,37 +1,19 @@
 # 基础技能培训
 
+本仓库为优化组新生的一些基础技能培训方案
 
+## 使用方法
 
-## 必备技能学习
+每一周完成对应文件夹内的任务，并按照要求提交相应作业，每周末会有师兄来检查提交情况。作业并不难，以学习和练习为主，请同学们不要有压力。
 
-1. python基础
+## 提交注意事项
 
-https://www.kaggle.com/learn/python
+提交文件夹在https://github.com/xjtuCPES/work_submit
 
-
-2. git协作基础
-https://github.com/geeeeeeeeek/git-recipes
-
-3. gurobipy基础
-
+在该仓库下建立自己的文件夹并进行推送。
 
 
 
-## 可选的技能学习
+## 参与进来
 
-1. pandas数据整理
-
-https://www.kaggle.com/learn/pandas
-
-
-
-## 实际案例练习
-
-### Week1
-
-
-### Week2
-
-
-### Week3
-
+请想要参与的同学微信联系果果，或`gguoguo@vip.qq.com`
