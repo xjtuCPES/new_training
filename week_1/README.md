@@ -32,6 +32,11 @@ git教程可以参考 https://github.com/geeeeeeeeek/git-recipes
 ## 需要提交文件
 
 
+1. 完成自己电脑的gurobi+python环境配置
+
+
+2. 配置git并且：
+
 使用自己的账号同步到https://github.com/xjtuCPES/work_submit
 
 并在该仓库下建立一个自己的文件夹和readme用于之后提交作业，该仓库下已经有示例。
